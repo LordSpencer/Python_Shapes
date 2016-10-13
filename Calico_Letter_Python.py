@@ -1,0 +1,10 @@
+from Myro import *
+init("sim")
+penDown()
+turnBy(60)
+forward(1,1)
+turnBy(-120)
+forward(1,1)
+backward(.5,1)
+turnBy(-120)
+forward(.5,1)
